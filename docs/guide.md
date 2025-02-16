@@ -39,7 +39,7 @@ google에 **VSC github 연동** 과 같은 키워드로 검색하시면 참고�
 
    ![Authorize](./assets/3-3.png)
 
-1. fork한 `bootcamp_division_homework` repository를 선택합니다.
+1. fork한 `2025-SS-welcome-test` repository를 선택합니다.
 
    ![select repository](./assets/3-4.png)
 
