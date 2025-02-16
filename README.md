@@ -32,7 +32,7 @@
     cd {{Repository name}}
 
     # 예시
-    cd haedal_bootcamp_division_homework
+    cd 2025-SS-welcome-test
     code .
    ```
 
