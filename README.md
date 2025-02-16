@@ -54,7 +54,9 @@
 
 **Spring** 수강을 원할 시, `Java`로, **React** 수강을 원할 시 `JavaScript`로 문제를 풀어야 합니다.
 
-총 8개의 문제로 구성되어 있으며 repository에 push 하신 뒤, 링크를 제출해주시면 됩니다.
+문제는 총 8개이며 공통문제 6개, 언어문제 2개로 구성되어 있습니다.
+
+문제풀이가 완료되면 repository에 push 하신 뒤, 링크를 제출해주시면 됩니다.
 
 오류 및 문의사항은 [오픈채팅방](https://open.kakao.com/o/snHNtjJg)에 남겨주세요.
 
