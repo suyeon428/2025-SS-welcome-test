@@ -4,8 +4,8 @@
 
 </div>
 
-2024년 하반기 해달의 입부 테스트 페이지입니다.
-
+2025년 상반기 해달의 입부 테스트 페이지입니다.
+`
 > [!IMPORTANT]
 >
 > fork한 후, README 페이지를 자유롭게 수정해서 사용하셔도 됩니다.
@@ -14,7 +14,7 @@
 
 ## ⚙️ 진행과정
 
-1. 상단의 [`Fork`](https://github.com/KNU-HAEDAL/2024-FW-welcome-test/fork) 버튼을 클릭해 repository를 생성합니다.
+1. 상단의 [`Fork`](https://github.com/KNU-HAEDAL/2025-SS-welcome-test/fork) 버튼을 클릭해 repository를 생성합니다.
    - Owner : 개인 계정
    - Repository name: 원하는 이름
 1. **git bash**를 열어서 방금 생성한 repository를 **clone**합니다.
@@ -23,7 +23,7 @@
    git clone https://github.com/{{Owner}}/{{Repository name}}.git
 
    # 예시
-   git clone https://github.com/KNU-HAEDAL/2024-FW-welcome-test.git
+   git clone https://github.com/KNU-HAEDAL/2025-SS-welcome-test.git
    ```
 
 1. clone한 repository를 Visual Studio Code로 열어줍니다.
@@ -54,7 +54,7 @@
 
 **Spring** 수강을 원할 시, `Java`로, **React** 수강을 원할 시 `JavaScript`로 문제를 풀어야 합니다.
 
-총 6개의 문제로 구성되어 있으며 repository에 push 하신 뒤, 링크를 제출해주시면 됩니다.
+총 8개의 문제로 구성되어 있으며 repository에 push 하신 뒤, 링크를 제출해주시면 됩니다.
 
 오류 및 문의사항은 [오픈채팅방](https://open.kakao.com/o/snHNtjJg)에 남겨주세요.
 
