@@ -1,0 +1,18 @@
+EBook
+Blockchain Basics
+xyz
+EBook
+Blockchain Basics
+32000
+4.6
+5
+PrintedBook
+Cyber Security
+29000
+4.9
+600
+EBook
+AI Ethics
+35000
+4.7
+10

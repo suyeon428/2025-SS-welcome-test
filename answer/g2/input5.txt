@@ -1,0 +1,28 @@
+EBook
+Agile Development
+45000
+4.8
+abc
+EBook
+Agile Development
+45000
+4.8
+20
+PrintedBook
+Big Data Analytics
+xyz
+PrintedBook
+Big Data Analytics
+42000
+4.9
+800
+EBook
+Mobile App Design
+47000
+4.7
+notanumber
+EBook
+Mobile App Design
+47000
+4.7
+5

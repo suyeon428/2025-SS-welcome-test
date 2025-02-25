@@ -1,0 +1,16 @@
+book
+EBook
+Deep Learning
+55000
+4.8
+15
+PrintedBook
+Software Engineering
+48000
+4.9
+750
+PrintedBook
+Operating Systems
+52000
+4.7
+600

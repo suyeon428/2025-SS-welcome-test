@@ -1,0 +1,15 @@
+EBook
+AI Revolution
+45000
+4.6
+12
+PrintedBook
+Data Structures
+40000
+4.9
+500
+EBook
+Cloud Computing
+50000
+4.7
+8

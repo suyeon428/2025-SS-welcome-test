@@ -1,0 +1,6 @@
+Invalid book type. Please enter 'EBook' or 'PrintedBook'.
+Highest rated book information:
+Title: Software Engineering
+Price: 48000
+Rating: 4.9
+Page Count: 750
