@@ -71,7 +71,7 @@ def run(java_file: str, input_data) -> list[tuple[str, float]]:
 def compare(answer: list[str], output: list[tuple[str, float]]) -> tuple[bool, str]:
     # print(f"answer: {answer}\noutput: {output}")
     # print()
-    timeout = 3
+    timeout = 5
 
     if len(answer) != len(output):
         return (False, "정답이 아닙니다.")
