@@ -45,7 +45,7 @@
    git push origin main
    ```
    - commit message는 원하는 내용으로 작성하셔도 됩니다.
-1. repository의 링크를 복사하여 1차 서류 제출란에 제출합니다.
+1. fork 했던 원본 레포지토리로 pull request를 생성합니다. 제출 완료!
 
 > github 사용이 어려운 분들은 [가이드](./docs/guide.md)와 함께 진행해보세요!
 
@@ -53,13 +53,13 @@
 
 `Java` 혹은 `JavaScript` 둘 중 하나를 선택해 문제를 풀면 됩니다.
 
-**Spring** 수강을 원할 시, `Java`로, **React** 수강을 원할 시 `JavaScript`로 문제를 풀어야 합니다.
+**Spring** 또는 **ANS**(안드로이드 스튜디오) 수강을 원할 시 `Java`로, **React** 수강을 원할 시 `JavaScript`로 문제를 풀어야 합니다.
 
 문제는 총 8개이며 공통문제 6개(a~f), 언어문제 2개(자바 g1&2, 자바스크립트 h1&2)로 구성되어 있습니다.
 
 문제풀이가 완료되면 repository에 push 하신 뒤, 링크를 제출해주시면 됩니다.
 
-오류 및 문의사항은 [오픈채팅방](https://open.kakao.com/o/snHNtjJg)에 남겨주세요.
+오류 및 문의사항은 [오픈채팅방](https://open.kakao.com/o/sdmtYQgh)에 남겨주세요.
 
 ## 🚨 주의 사항
 
