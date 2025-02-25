@@ -1,0 +1,15 @@
+EBook
+Python Guide
+40000
+4.8
+10
+PrintedBook
+System Design
+55000
+4.9
+700
+PrintedBook
+Java Deep Dive
+60000
+4.7
+650

@@ -1,0 +1,5 @@
+Highest rated book information:
+Title: Data Structures
+Price: 40000
+Rating: 4.9
+Page Count: 500
