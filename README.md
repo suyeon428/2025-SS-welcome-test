@@ -38,7 +38,7 @@
    ```
 
 1. 본인이 선택한 언어 폴더([자바](./java_test/), [자바스크립트](./javaScript_test/))로 이동하여 답안지에 [문제](./docs/problems.md)들을 풉니다.
-1. github repository에 작성한 코드를 업로드합니다.
+1. 채점 프로그램을 돌려본 후, github repository에 작성한 코드를 업로드합니다.
    ```bash
    git add .
    git commit -m "입부테스트 문제 풀이"
